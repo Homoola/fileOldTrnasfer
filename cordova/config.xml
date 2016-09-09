@@ -1,14 +1,15 @@
 
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.wino.transfer" version="1.1.0" android-versionCode="7" ios-CFBundleVersion="1.1.0" xmlns="http://www.w3.org/ns/widgets">
-    <name>gtransfer</name>
-    <description>
-        An exemplary Tabris.js conference app.
-    </description>
-    <author email="tabris@eclipsesource.com" href="https://tabrisjs.com">
-        EclipseSource
-    </author>
-    <access origin="*" />
+<widget xmlns="http://www.w3.org/ns/widgets"
+        id="com.wino.transfer"
+        version="2.0.1"
+        android-packageName="com.wino.wino"
+        android-versionCode="2">
+  <name>Homoola maps</name>
+  <description>Examples for the Tabris.js maps custom widget.</description>
+  <author email="tabris@eclipsesource.com" href="https://tabrisjs.com">EclipseSource</author>
+
+  <preference name="EnableDeveloperConsole" value="false" />
   
      <plugin name="org.apache.cordova.file-transfer" />
     <plugin name="https://github.com/pwlin/cordova-plugin-file-opener2" />
