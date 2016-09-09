@@ -10,8 +10,6 @@
   <author email="tabris@eclipsesource.com" href="https://tabrisjs.com">EclipseSource</author>
 
   <preference name="EnableDeveloperConsole" value="false" />
-  
-     <plugin name="org.apache.cordova.file-transfer" />
-    <plugin name="cordova-plugin-file-opener2" />
+
 </widget>
 
