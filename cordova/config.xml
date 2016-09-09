@@ -12,6 +12,6 @@
   <preference name="EnableDeveloperConsole" value="false" />
   
      <plugin name="org.apache.cordova.file-transfer" />
-    <plugin name="https://github.com/pwlin/cordova-plugin-file-opener2" />
+    <plugin name="cordova-plugin-file-opener2" />
 </widget>
 
