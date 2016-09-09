@@ -1,16 +1,16 @@
+
 <?xml version='1.0' encoding='utf-8'?>
-<widget
-    id="com.eclipsesource.tabris.js.example.cordova-file-open"
-    version="0.0.1"
-    xmlns="http://www.w3.org/ns/widgets"
-    xmlns:cdv="http://cordova.apache.org/ns/1.0"
-    xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Tabris.js File Open Example</name>
+<widget id="com.wino.transfer" version="1.1.0" android-versionCode="7" ios-CFBundleVersion="1.1.0" xmlns="http://www.w3.org/ns/widgets">
+    <name>gtransfer</name>
     <description>
-      A Tabris.js example demonstrating downloading a file and opening it with a default app.
+        An exemplary Tabris.js conference app.
     </description>
+    <author email="tabris@eclipsesource.com" href="https://tabrisjs.com">
+        EclipseSource
+    </author>
     <access origin="*" />
-    <preference name="EnableDeveloperConsole" value="true"/>
-    <gap:plugin name="org.apache.cordova.file-transfer" />
-    <gap:plugin name="https://github.com/pwlin/cordova-plugin-file-opener2" />
+  
+     <plugin name="org.apache.cordova.file-transfer" />
+    <plugin name="https://github.com/pwlin/cordova-plugin-file-opener2" />
 </widget>
+
