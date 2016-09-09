@@ -3,7 +3,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets"
         id="com.wino.transfer"
         version="2.0.1"
-        android-packageName="com.wino.wino"
+        android-packageName="com.wino.transfer"
         android-versionCode="2">
   <name>Homoola maps</name>
   <description>Examples for the Tabris.js maps custom widget.</description>
